@@ -18,7 +18,7 @@ Build real-world projects.
 
 About Me
 
-I am a fourth-year BSIT student who en.
+I am a fourth-year BSIT student i live in Purok ilang-ilang Sta.filomena Ilingan City and my hobbies is playing online game and watching movies 
 
 Contact
 
