@@ -1,0 +1,26 @@
+ ADT-Portfolio
+
+ Student Information
+
+Student Name:Justiven S. Garino
+
+Course:Bachelor of Science in Information Technology (BSIT)
+
+Section:BSIT-4A
+
+ Goals in Learning Application Development
+
+Learn application development concepts.
+Improve programming skills.
+Learn Git and GitHub.
+Build real-world projects.
+ Work effectively in a team.
+
+About Me
+
+I am a fourth-year BSIT student who en.
+
+Contact
+
+GitHub: https://github.com/GarinoJustiven
+Email: [justivenserban.garino@my.smciligan.edu.ph]
