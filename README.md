@@ -6,7 +6,7 @@ Student Name:Justiven S. Garino
 
 Course:Bachelor of Science in Information Technology (BSIT)
 
-Section:BSIT-4A
+Section:BSIT-4
 
  Goals in Learning Application Development
 
